@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dipakchindalia
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in php
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Post a message on my profile
 
 <!---
 dipakchindalia/dipakchindalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
