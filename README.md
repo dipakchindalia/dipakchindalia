@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dipakchindalia
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
-- 📫 Post a message on my profile
+- 👀 I’m interested in Frontend web development
+- 🌱 I’m currently learning HTML CSS and reactJs
+- 💞️ I’m looking to collaborate on web development(Frontend)
+- 📫 You can find my work in one of my repository.
 
 <!---
 dipakchindalia/dipakchindalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
